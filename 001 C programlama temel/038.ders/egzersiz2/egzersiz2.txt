@@ -1,0 +1,2 @@
+egzersiz1 aynısını degıskenın adresıyle ıslem yaparak cozunuz. bu durumda fonksıyonun baslıgı 
+void ustunu_al(int x,int y,int *r) seklinde olmalıdır
