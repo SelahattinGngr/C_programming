@@ -2,7 +2,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#define isim 20 // isim[20] yazmak yerine yapılan saçma bir işlem
+#define isim 20 // isim[20] yazmak yerine sabit deger atayip define kullandik
+	  // edit: define kodun heryerinde kullanilabilen sabit degiskenler olusturuyor
+	  // matematiksel bir islem yaparken isim cagirarak 20 degerini kullanabiliriz
 int	main()
 {
 	char	kullaniciadi[isim];
