@@ -1,0 +1,1 @@
+Klavyeden girilen bir cumledeki kelime sayisini bulan c programi yaziniz.

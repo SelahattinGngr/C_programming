@@ -1,0 +1,7 @@
+klavyeden girilen bir kelimenin harflerini bir harf arttirarak assagidaki gibi yazan c programi yazin
+
+kelime giriniz: selo
+s
+s e
+s e l
+s e l o
