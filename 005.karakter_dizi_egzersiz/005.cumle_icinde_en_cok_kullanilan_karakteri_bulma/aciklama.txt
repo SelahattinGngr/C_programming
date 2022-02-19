@@ -1,1 +1,0 @@
-klavyeden kucuk harflerle girilen bir cumle icerisinde en fazla kullanilan karakterin bulunmasini saglayan c programini yaziniz
