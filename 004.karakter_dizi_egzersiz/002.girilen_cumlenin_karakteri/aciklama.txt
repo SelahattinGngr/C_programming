@@ -1,1 +1,0 @@
-klavyeden girilen bir cumlenin kac karakterden olustugunu strlen() fonksiyonunu kullanmadan bulan c programi yaziniz.
