@@ -1,0 +1,1 @@
+klavyeden negatif bir deger girilinceye kadar kullanicidan surekli sayi isteyen c programini fonskiyon kullanarak yaziniz
