@@ -1,0 +1,1 @@
+1 den 10 a kadar her bir sayinin faktoriyelini fonksiyon kullanarak hesaplayan ve sonuclari ekrana listeleyen c programini yaziniz
