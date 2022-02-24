@@ -1,0 +1,2 @@
+kendisi haric pozitif tam bölenlerinin toplami kendisine esit olan sayilara mukemmel sayi adi verilmektedir.
+buna gore klavyeden girilen bir sayinin mükemmel olup olmadigini fonksiyon kullanarak bulan c programini yaziniz.

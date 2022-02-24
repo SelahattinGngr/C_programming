@@ -1,0 +1,1 @@
+klavyeden girilen pozitif bir tamsayinin tek ya da cift oldugunu fonksiyon kllanarak bulan c porgramini yaziniz.
