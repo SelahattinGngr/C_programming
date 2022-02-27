@@ -1,0 +1,2 @@
+bilgisayar tarafindan rastgele uretilen N adet sayi bir dizide tutulmaktadir.
+dizi icerisindeki max ve min degerlerin iki ayri fonksiyon kullanarak bulunmasini saglayan c programini yazin.

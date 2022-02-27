@@ -1,0 +1,10 @@
+assagida verilen ekran goruntusunun elde edilmesini saglayan c programini fonksiyonlar kullanarak yaziniz
+
+satir sayisini giriniz: 4
+         c
+        ccc
+       ccccc
+      ccccccc
+       +++++
+        +++
+         +
