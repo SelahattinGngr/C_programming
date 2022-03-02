@@ -1,0 +1,4 @@
+kullanici tarafindan bolunen ve bolen degerleri girilerek bolme islemi yapilmak istenmektedir.
+buna gore assagida verilen prototipi kullanarak bolum ve kalanin elde edilmesini saglayan c programini yaziniz
+
+void bolmeislemi(int bolunen,int bolen)
