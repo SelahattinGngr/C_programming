@@ -1,0 +1,3 @@
+bilgisayar tarafindan rastgele uretilen n adet sayi bir dizide tutulmaktadir. buna gore assagida verilen fonksiyon prototipini kullanarak dizi elemanlarinin kucukten buyuge dogru siralanmasini saglayan c programini fonksiyon kullanarak yaziniz.
+
+void	sirala(int a[],int adet)
