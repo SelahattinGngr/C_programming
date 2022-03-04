@@ -1,0 +1,2 @@
+bilgisayar tarafindan rastgele uretilen n adet sayi bir dizide tutulmaktadir.
+dizi icerisinde istenilen bir degerin dizideki sira numarasi girilerek ilgili sirada bulunan dizi degerinin silinmesini saglayan c programini fonksiyon kullanarak yaziniz.

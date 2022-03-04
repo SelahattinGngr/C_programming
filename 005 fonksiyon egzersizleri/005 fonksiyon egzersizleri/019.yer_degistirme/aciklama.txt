@@ -1,0 +1,5 @@
+kullanici tarafindan girilen tamsayilar x ve y degiskenlerinde tutulmaktadir.
+x ve y degiskenlerinde yer alan degerlerin yerlerinin degistirilmesini saglayan fonksiyon prototipi assagida verilmistir. 
+uygun c programini ve fonksiyonunu yaziniz.
+
+void	yerdegistir(int x,int y)

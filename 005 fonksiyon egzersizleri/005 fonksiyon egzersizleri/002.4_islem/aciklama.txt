@@ -1,0 +1,2 @@
+klavyeden girilen iki tamsayinin toplamini,farkini,carpimini ve bolumunu gerceklestiren c programini fonksiyon kullanarak yazin.
+not: kullanicidan hangi islemi yapacagini sectirmek gerekiyor sonradan belirtti videoda

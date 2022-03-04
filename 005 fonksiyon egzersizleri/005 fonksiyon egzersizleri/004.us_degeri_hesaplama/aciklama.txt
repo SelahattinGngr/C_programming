@@ -1,0 +1,5 @@
+klavyeden taban ve üs degeri girilen a^b seklindeki bir islemin sonucunu fonksıyon kullanarak hesaplayan ve sonucları ekrana lısteleyen c programını yazınız
+örn: taban 5^3
+5^1=5
+5^2=25
+5^3=125

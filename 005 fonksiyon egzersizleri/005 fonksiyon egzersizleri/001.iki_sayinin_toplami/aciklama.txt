@@ -1,0 +1,1 @@
+klavyeden girilen iki tam sayinin toplamini fonksiyon kullanarak hesaplayan C programini yaziniz.

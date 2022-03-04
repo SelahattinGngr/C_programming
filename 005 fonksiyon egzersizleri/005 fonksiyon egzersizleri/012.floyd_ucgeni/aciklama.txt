@@ -1,0 +1,6 @@
+Floyd'un üçgeni, bir dizi sıraya sırayla yayılmış bir dizi sayıdır.
+kullanıcıdan floyd ucgenının kac satır olacagını gırdısını alın ve ucgeni olusturun
+1
+2 3
+4 5 6
+7 8 9 10

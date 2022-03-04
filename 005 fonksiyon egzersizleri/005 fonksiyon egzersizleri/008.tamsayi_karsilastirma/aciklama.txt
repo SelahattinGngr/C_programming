@@ -1,0 +1,1 @@
+klavyeden girilen iki tamsayidan buyuk olani fonksiyon kullanarak bulan c programini yaziniz.

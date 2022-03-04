@@ -1,0 +1,3 @@
+kullanici tarafindan n elemanli bir diziye alinan tamsayilarin ortalamasinin bulunmasini saglayan fonksiyon prototipi assagida verilmistir. buna gore assagidaki prototipi kullanarak c programini yaziniz.
+
+ortalama(int *dizim,int boyut)

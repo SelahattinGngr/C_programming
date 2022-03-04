@@ -1,0 +1,2 @@
+her sayinin kendinden onceki sayi ile toplanmasi sonucu olusan sayi dizisine fibonacci dizisi adi verilmektedir.
+buna gore klavyeden kac adet fibonacci sayisi uretilecegi bilgisi girilerek sayilarin uretilmesini saglayan c programini fonksiyon kullanarak yaziniz.

@@ -1,0 +1,1 @@
+klavyeden girilen bir tamsayinin faktoriyelini fonksiyon kullanarak hesaplayan c programi yaziniz.

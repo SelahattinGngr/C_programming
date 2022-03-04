@@ -1,0 +1,4 @@
+kullanici tarafindan girilen yaricap degeri kullanilarak bir dairenin alanini ve cevresini hesaplayan fonksiyon prototipi assagida verilmistir.
+uygun c programini ve fonksiyonunu yaziniz
+
+void	hesapla(float yaricap)

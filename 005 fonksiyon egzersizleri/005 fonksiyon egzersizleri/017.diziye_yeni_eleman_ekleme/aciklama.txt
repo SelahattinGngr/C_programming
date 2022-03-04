@@ -1,0 +1,2 @@
+bilgisayar tarafindan rastgele uretilen n adet sayi bir dizide tutulmaktadir.
+dizi içerisinde dizi sira numarasini belirterek klavyeden alinan bir tamsayinin ilgili siraya eklenmesini saglayan c programini fonksiyon olarak yaziniz
