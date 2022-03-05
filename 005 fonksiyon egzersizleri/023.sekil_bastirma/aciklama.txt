@@ -1,0 +1,8 @@
+*****
+ ***
+  *
+  *
+ ***
+*****
+
+kullanicidan sekli ve satir sayisini alip bu sekli cikartan c programini fonksiyon ile yazin

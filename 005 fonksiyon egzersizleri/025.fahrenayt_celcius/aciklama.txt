@@ -1,0 +1,2 @@
+kullanici tarafindan celcius olarak girilen bir degerin fahreneit
+fahreneit olarak girilen bir degerin celcius'a donusturulmesını saglayan c programini fonksiyon kullanrak yaziniz

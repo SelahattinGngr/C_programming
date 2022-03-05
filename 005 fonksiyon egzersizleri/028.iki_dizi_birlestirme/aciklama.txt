@@ -1,0 +1,4 @@
+kullanici tarafindan girilen A ve B dizilerine sirasiyla N ve K adet tamsayi girilmektedir.
+bu iki dizinin birlestirilerek tek bir dizi haline getirilmesini saglayan c programini assagidaki fonksiyon prototipini kullanarak yaziniz
+
+void birlestir(int A[],int B[],int C[],int N,int K)

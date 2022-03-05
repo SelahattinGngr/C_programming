@@ -1,0 +1,4 @@
+kenar uzunluklari birbirinden farkli eskenar bir ucgenin alaninin bulunmasini saglayan c programini fonksiyon kullanarak yaziniz.
+
+u=(a+b+c)/2
+alan^2=u*(u-a)*(u-b)*(u-c)

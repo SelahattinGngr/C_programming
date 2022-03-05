@@ -1,0 +1,1 @@
+kullanici tarafindan saniye olarak girilen bir degerin saat:dakika:saniye formatina donusturulmesini saglayan c programini fonksiyon kullanarak yaziniz.

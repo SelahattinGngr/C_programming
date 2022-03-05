@@ -1,0 +1,1 @@
+kullanici tarafindan agirilen bir n pozitif tamsayisinin karekokunun bulunmasini saglayan (sqrt() kullanmadan) c prograini fonksiyon kullanarak yaziniz. 
