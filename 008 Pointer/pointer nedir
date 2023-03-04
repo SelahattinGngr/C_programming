@@ -1,0 +1,6 @@
+adres tutan degiskenlere pointer denir.
+
+pointer'in turu isaret ettigi degiskenin turunu anlamamizi saglar.
+	orn:/  int* turundeki bir pointer int turunde bir degiskeni isaret eder.
+
+varriable pointer: pointer'in adresini tuttugu degisken.
